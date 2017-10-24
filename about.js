@@ -7,13 +7,12 @@
            return 2;
         }
      
-        console.log(a);
-        console.log(foo());
+      
         
         a = 1;
      }
      
-     test();
+    
  })();
  
  console.log('hello'.repeatify(3));
